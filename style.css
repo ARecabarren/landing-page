@@ -31,3 +31,11 @@ li{
     display: inline;
 }
 
+.intro{
+    display: flex;
+    justify-content: center;
+
+}
+.main-image{
+    width: 600px;
+}
