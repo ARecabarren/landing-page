@@ -6,7 +6,7 @@ body{
 
 header{
     display: flex;
-    background-color: #1f2937;
+    background-color: #F5853F;
     color: #f9faf8;
     justify-content: space-between;
     align-items: center;
@@ -34,8 +34,48 @@ li{
 .intro{
     display: flex;
     justify-content: center;
+    /* border: 2px solid red; */
+    padding:50px ;
+    gap: 100px;
+    background-color: #0D1321;
+    color: #f9faf8;
 
 }
-.main-image{
-    width: 600px;
+.intro-left{
+    max-width:650px ;
+}
+
+.img-container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+h1{
+    font-size: 48px;
+    font-weight: extra-bold;
+}
+
+.main-image, .down-image{
+    border: 5px solid#587B7F;
+    border-radius: 5px;
+}
+.down-image{
+    /* width: 250px; */
+    flex: 1;
+}
+.second-image{
+    display: flex;
+    column-gap: 10px;
+}
+a{
+    color: #f8faf9;
+}
+button{
+    background-color: #587B7F;
+    color: #f8faf9;
+    font-size: medium ;
+    font-weight: 400;
+    padding: 10px 5px;
+    border-radius: 5px;
+    border: unset;
 }
