@@ -20,3 +20,5 @@ You have been born with a unique and absolute talent for such a special skill. H
 
 Senku.
 He firmly believes that we can improve and solve everything with science being absolutely conscious of the work, repetition, failures, and perseverance that the process involves. Resilience in every single step.
+
+Quote - No matter how strong a power you may have. Its foundation is built on the steady accumulation of skills. There are exceptions, but most heroes build their abilities brick by brick. At least, that's the only method I know how to do.
