@@ -6,7 +6,7 @@ https://www.pexels.com/fr-fr/photo/bobblehead-guerrier-264905/
 https://unsplash.com/es/fotos/H1a4cIeVZwI (Endeavor)
 https://www.tsume-art.com/storage/app/media/gai/GAI-1.png (Maito Gai)
 https://ladooscuroshop.com/wp-content/uploads/2022/10/mob_pop_3.jpg (Mob)
-https://cdnx.jumpseller.com/cinnamon-cat/image/23726782/resize/480/480?1654746231 (Senku)
+https://cdn.shopify.com/s/files/1/0238/7617/products/AANE1329AAET345-2_1200x.jpg?v=1659440908 (Senku)
 
 
 Endeavor
