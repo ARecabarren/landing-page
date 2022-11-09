@@ -7,7 +7,7 @@ body{
 header{
     display: flex;
     background-color: #F5853F;
-    color: #f9faf8;
+    color:#0D1321;
     justify-content: space-between;
     align-items: center;
     font-size: 24px;
@@ -124,6 +124,53 @@ figcaption{
     align-items: center;
     /* border: 2px solid red; */
 }
-p{
+.block{
     text-align: justify;
+    font-weight: 500;
+}
+.quote-section{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    padding-top: 5%;
+    font-size: 3vh;
+    background-color:rgba(88, 123, 127,0.7);
+}
+.quote-block{
+    width: 50%;
+    font-size: 27px;
+    font-style: italic;
+}
+.sign-up{
+    display: flex;
+    justify-content: center;
+    margin: 5%;
+}
+.follow-us{
+    display: flex;
+    width: 60%;
+    height: 100px;
+    border-radius: 10px;
+    background-color: #f5853fc2;
+    padding: 1%;
+}
+.text-section{
+    display: flex;
+    flex-direction: column;
+    /* flex-wrap: wrap; */
+    width: 60%;
+    /* border: 2px solid red; */
+    /* padding-top: 2%; */
+    justify-content:center;
+    align-items: left;
+}
+.text-section div{
+    margin-left: 17%;
+}
+
+.button-section{
+    display: flex;
+    width: 40%;
+    justify-content: center;
+    align-items: center;
 }
