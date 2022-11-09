@@ -174,3 +174,14 @@ figcaption{
     justify-content: center;
     align-items: center;
 }
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    padding: 1%;
+    /* height: 6vh; */
+    background-color: #0D1321;
+    text-align: center;
+    color: #F5853F;
+    font-size: small;
+}
